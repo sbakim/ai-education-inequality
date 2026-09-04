@@ -5,12 +5,12 @@ title: "AI adoption, digital-skill diffusion and achievement gaps on a homophilo
 version: 1.0.0
 date-released: 2026-09-04
 license: MIT
-repository-code: "https://github.com/[GITHUB_USER]/ai-education-inequality"
+repository-code: "https://github.com/sbakim/ai-education-inequality"
 authors:
-  - family-names: "[FAMILY NAME]"
-    given-names: "[GIVEN NAME]"
-    orcid: "https://orcid.org/[0000-0000-0000-0000]"
-    affiliation: "[AFFILIATION]"
+  - family-names: "Bakim"
+    given-names: "Sumeyye"
+    orcid: "https://orcid.org/[0000-0002-6957-2328]"
+    affiliation: "Department of Computer Engineering, KTO Karatay University, Konya, Turkiye"
 keywords:
   - agent-based model
   - complex contagion
