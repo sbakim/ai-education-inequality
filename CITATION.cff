@@ -1,9 +1,10 @@
-cff-version: 1.1.0
-message: "If you use this software, please cite it as below."
-authors:
-- family-names: Joe
-  given-names: Johnson
-orcid: https://orcid.org/0000-0000-0000-0000
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
 title: "AI adoption, digital-skill diffusion and achievement gaps on a homophilous school network: simulation code"
-version: v1.0.0
+version: 1.0.0
 date-released: 2026-09-04
+authors:
+  - family-names: Bakim
+    given-names: Sumeyye
+    orcid: "https://orcid.org/0000-0002-6957-2328"
+    affiliation: "KTO Karatay University"
