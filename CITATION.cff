@@ -9,7 +9,7 @@ repository-code: "https://github.com/sbakim/ai-education-inequality"
 authors:
   - family-names: "Bakim"
     given-names: "Sumeyye"
-    orcid: "https://orcid.org/[0000-0002-6957-2328]"
+    orcid: "https://orcid.org/0000-0002-6957-2328"
     affiliation: "Department of Computer Engineering, KTO Karatay University, Konya, Turkiye"
 keywords:
   - agent-based model
