@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+type: software
+title: "AI adoption, digital-skill diffusion and achievement gaps on a homophilous school network: simulation code"
+version: 1.0.0
+date-released: 2026-09-04
+license: MIT
+repository-code: "https://github.com/[GITHUB_USER]/ai-education-inequality"
+authors:
+  - family-names: "[FAMILY NAME]"
+    given-names: "[GIVEN NAME]"
+    orcid: "https://orcid.org/[0000-0000-0000-0000]"
+    affiliation: "[AFFILIATION]"
+keywords:
+  - agent-based model
+  - complex contagion
+  - educational inequality
+  - AI in education
+  - homophily
