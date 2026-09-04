@@ -1,6 +1,7 @@
 # AI adoption, digital-skill diffusion and achievement gaps on a homophilous school network
 
-Simulation code for the manuscript *[TITLE]* (submitted to *Mathematical Modelling and Numerical Simulation with Applications*).
+Simulation code for the manuscript *Universal AI Availability and Educational Inequality:
+A Networked Agent-Based Model* 
 
 The model simulates AI-tool adoption as a complex contagion on an SES-homophilous student network, digital-skill diffusion between peers, and latent achievement accumulation. Experiments E0–E20 reproduce every table and figure in the paper.
 
